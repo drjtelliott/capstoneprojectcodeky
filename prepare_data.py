@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 
-# reference for download: https://github.com/ranaroussi/yfinance/wiki/Tickers#download
+# Download Ticker Data
 
 def download_data(ticker:str, start: str, end: str) -> pd.DataFrame: 
     print(f"Downloading {ticker} data....")
