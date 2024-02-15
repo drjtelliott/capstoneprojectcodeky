@@ -48,6 +48,7 @@ dir_name = 'data'
 
 #Check is directory is already exisiting
 if not os.path.exists(dir_name):
+    print(f'Creating Directory {dir_name}')
     #If not create the directory
     os.makedirs(dir_name)
 
