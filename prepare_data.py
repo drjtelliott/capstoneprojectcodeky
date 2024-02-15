@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 
-# reference for download: https://github.com/ranaroussi/yfinance/wiki/Tickers#download
+#Capstone Project
 
 def download_data(ticker:str, start: str, end: str) -> pd.DataFrame: 
     print(f"Downloading {ticker} data....")
@@ -18,7 +18,7 @@ def clean_data(data: pd.DataFrame) -> pd.DataFrame:
     print("Cleaning data")
 
     # update data frame to only contain column we care about
-    data = data.drop(columns=['Open', 'High', 'Low', 'Adj Close'])
+    data = data.drop(columns=['Open', 'High', 'Low', 'Adj Close', 'Volume'])
 
     # round the Close column to two decimal places
     data["Close"] = data["Close"].round(2)
@@ -39,8 +39,8 @@ def prepare_data(ticker:str, start: str, end: str):
 
     data.to_csv(f'data/{ticker.lower()}_data.csv') 
 
-start_date="2023-01-01"
-end_date="2023-12-22"
+start_date="2019-10-01"
+end_date="2023-12-31"
 
 # download fox data   
 prepare_data("FOX", start=start_date, end=end_date) 
