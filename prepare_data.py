@@ -71,3 +71,6 @@ if not os.path.exists(dir_name):
 
 merged_df = get_merged_data('FOX', 'TKO', '2019-10-01', '2023-12-31', 'data')
 print(merged_df)
+
+#Merging tko.csv & fox.csv
+merged_df.to_csv(f'{dir_name}/merged_data.csv')
