@@ -1,5 +1,6 @@
 import yfinance as yf
 import pandas as pd
+import os 
 
 # Download Ticker Data
 
@@ -31,19 +32,27 @@ def clean_data(data: pd.DataFrame) -> pd.DataFrame:
 
     return data
 
-def prepare_data(ticker:str, start: str, end: str): 
+def prepare_data(ticker:str, start: str, end: str, dir_name:str): 
     print(f"Preparing data for {ticker}")
 
     data = download_data(ticker, start=start, end=end)
     data = clean_data(data)
 
-    data.to_csv(f'data/{ticker.lower()}_data.csv') 
+    data.to_csv(f'{dir_name}/{ticker.lower()}_data.csv') 
 
 start_date="2019-10-01"
 end_date="2023-12-31"
 
-# download fox data   
-prepare_data("FOX", start=start_date, end=end_date) 
+#Define the directory name
+dir_name = 'data'
+
+#Check is directory is already exisiting
+if not os.path.exists(dir_name):
+    #If not create the directory
+    os.makedirs(dir_name)
 
 # download fox data   
-prepare_data("TKO", start=start_date, end=end_date)
+prepare_data("FOX", start=start_date, end=end_date, dir_name=dir_name) 
+
+# download fox data   
+prepare_data("TKO", start=start_date, end=end_date, dir_name=dir_name)
