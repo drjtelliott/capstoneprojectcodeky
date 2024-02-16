@@ -32,7 +32,7 @@
 * Item 1 Based upon the evidence discovered though this data analysis, the following conclusions can confidently be made.
 * Sub Item 1 TKO stock rose $XX durign this tiem period, indicatign a positive correlation.
 * Sub Item 2 FOX stock declined durign this time period, indicating a negative correlation.
-
+*mean, median, mode
 * Practically, the nonrewnal fo this contract confirms this 
 
 **Data Sources**
