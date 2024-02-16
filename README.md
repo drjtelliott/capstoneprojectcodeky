@@ -1,7 +1,7 @@
 # capstoneprojectcodeky
 
 ![Project banner](tko_fox_data.png)
-**Overview**
+#header1 **Overview**
 
 A data analysis between the stock tickers, TKO and FOX, based upon their media rights deal between 2019-2023. 
 
@@ -32,6 +32,8 @@ TKO CSV
 
 FOX CSV
 
+Merged CSV
+
 
 **REQUIREMENTS**
 
@@ -45,8 +47,13 @@ Before you begin running these files, ensure you have met the following requirem
 **Directions for Implementation**
 
 Follow these steps to run the project on your local machine:
+
 First draft of capstone project.
+
 Created a branch.
+
 Python 3.12
+
 yfinance 0.2.33
+
 Download the download.py to gather data from the data folder.
