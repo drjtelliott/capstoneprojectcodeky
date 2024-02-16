@@ -56,13 +56,20 @@ Before you begin running these files, ensure you have met the following requirem
 **Directions for Implementation**
 
 * Follow these steps to run the project on your local machine:
-
-First draft of capstone project.
-
-Created a branch.
-
-Python 3.12
-
-yfinance 0.2.33
+1. Install VS Code from this website (
+1. Install python version from this website (
+Set up virtual environment
+1. First draft of capstone project.
+1.Created a branch.
+1. Python 3.12
+1.yfinance 0.2.33
 
 Download the download.py to gather data from the data folder.
+
+**Features**
+1.	Two CSV files created in a data folder (fox.csv & tko.csv)
+    -Merged CSV files into one CSV file (merged_data.csv)
+2. 	Data cleaned (rounded closing price to two decimal places, remove unessecary columns)
+3.	Pandas used in the Dataframe
+4.	Virtual Environment
+5.	READ.ME with markdown features
