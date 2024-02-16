@@ -1,7 +1,7 @@
 # capstoneprojectcodeky
 
 ![Project banner](tko_fox_data.png)
-#header1 **Overview**
+**Overview**
 
 A data analysis between the stock tickers, TKO and FOX, based upon their media rights deal between 2019-2023. 
 
