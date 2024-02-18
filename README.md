@@ -13,14 +13,14 @@
 **TKO (Formerly WWE)**
 
 * World Wrestling Entertainment (WWE) is a publicly traded company focusing on sports entertainment. WWE focused their corporation in three sectors: media, live events, and consumer products. The media sector focuses on family-friendly television programming with a Parental Guidance (PG) rating.  The company holds over 300 live ticketed events each year. Finally, the consumer products focused on retail merchandise. In September 2023, WWE was sold to Endeavor as a part of TKO Holdings Group and is now traded under the ticker symbol, TKO. 
-- [TKO Stock Insights] (https://www.marketwatch.com/investing/stock/tko/)
-- [TKO Corporate Website] (https://tkogrp.com/)
+- [TKO Stock Insights](https://www.marketwatch.com/investing/stock/tko/)
+- [TKO Corporate Website](https://tkogrp.com/)
 
 **FOX**
 
 * FOX Corporation is a publicly traded company focusing on various multimedia outlets. FOX Corporations currently distributes produces and distributes content through subsidiary businesses in news, sports, entertainment, television stations, and streaming. FOX is known for having some of the highest rated television shows in politics, athletics, comedy, and drama.
-- [FOX Stock Insights] (https://www.marketwatch.com/investing/stock/fox)
-- [FOX Corporate Website] (https://www.foxcorporation.com/)
+- [FOX Stock Insights](https://www.marketwatch.com/investing/stock/fox)
+- [FOX Corporate Website](https://www.foxcorporation.com/)
 
 **History**
 
@@ -57,7 +57,7 @@ Before you begin running these files, ensure you have met the following requirem
 **Directions for Implementation**
 
 * Follow these steps to run the project on your local machine:
-1. Install VS Code from this [website] (https://code.visualstudio.com/)
+1. Install VS Code from this [website](https://code.visualstudio.com/)
 1. Install python version from this website (
 Set up virtual environment
 1. First draft of capstone project.
