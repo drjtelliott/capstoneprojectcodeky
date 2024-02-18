@@ -58,12 +58,11 @@ Before you begin running these files, ensure you have met the following requirem
 
 * Follow these steps to run the project on your local machine:
 1. Install VS Code from this [website](https://code.visualstudio.com/)
-1. Install python version from this website (
-Set up virtual environment
-1. First draft of capstone project.
-1.Created a branch.
+1. Install python version 3.12 from this [website](https://www.python.org/downloads/)
+1. Set up virtual environment
+1.Created a branch. cloen the repo
 1. Python 3.12
-1.yfinance 0.2.33
+1. yfinance 0.2.33
 
 Download the download.py to gather data from the data folder.
 
