@@ -52,14 +52,11 @@ Before you begin running these files, ensure you have met the following requirem
 1. Created a branch.
 2. clone the repo
 
-
-Download the download.py to gather data from the data folder.
-
 **Features**
 1.	Two CSV files created in a data folder (fox.csv & tko.csv)
       * Merged CSV files into one CSV file (merged_data.csv)
 2. 	Data cleaned (rounded closing price to two decimal places, removed unessecary columns)
-      * Pandas used in the Dataframe
+      * Pandas used in the Dataframe, merged data files, renamed closing value columns to match the tickers. 
 3. Visualizations usign Tableau displayed in the form of area and line graphs
 4.	Virtual Environment
 5.	README with well-written comments and Markdown features
