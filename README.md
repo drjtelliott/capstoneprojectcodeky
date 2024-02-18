@@ -57,13 +57,14 @@ Before you begin running these files, ensure you have met the following requirem
 **Directions for Implementation**
 
 * Follow these steps to run the project on your local machine:
+1. Create a GitHub account at this [website](https://github.com/)
 1. Install VS Code from this [website](https://code.visualstudio.com/)
-1. Install python version 3.12 from this [website](https://www.python.org/downloads/)
-2. Install yfinance package 0.2.36 from this [website](https://pypi.org/project/yfinance/)
+1. Install Python version 3.12 from this [website](https://www.python.org/downloads/)
+1. Install yfinance package 0.2.33 from this [website](https://pypi.org/project/yfinance/)
 1. Set up virtual environment
-1.Created a branch. cloen the repo
-1. Python 3.12
-1. yfinance 0.2.33
+1. Created a branch.
+2. clone the repo
+
 
 Download the download.py to gather data from the data folder.
 
