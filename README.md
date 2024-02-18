@@ -33,7 +33,8 @@
 * Sub Item 1 TKO stock rose $XX durign this tiem period, indicatign a positive correlation.
 * Sub Item 2 FOX stock declined durign this time period, indicating a negative correlation.
 *mean, median, mode
-* Practically, the nonrewnal fo this contract confirms this 
+* Utilizing inferential statistics, a data analysis reveals noteworthy trends in the financial performance of FOX and TKO during this media rights deal. Remarkably, the mean, median, and mode of FOX exceeded its 2023 closing price. Conversely, TKO demonstrated a contrasting scenario, with its 2023 closing price surpassing both its mean, median, and mode. This indicates that TKO not only outperformed its typical and frequently occurring closing prices but also diverged positively from the statistical norms, marking a notable distinction from FOX's financial trajectory by the end of 2023.
+
 
 **Data Sources**
 
