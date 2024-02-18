@@ -62,4 +62,4 @@ Download the download.py to gather data from the data folder.
       * Pandas used in the Dataframe
 3. Visuals
 4.	Virtual Environment
-5.	READ.ME with markdown features
+5.	README with markdown features
