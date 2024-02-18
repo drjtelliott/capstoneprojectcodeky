@@ -57,6 +57,6 @@ Before you begin running these files, ensure you have met the following requirem
       * Merged CSV files into one CSV file (merged_data.csv)
 2. 	Data cleaned (rounded closing price to two decimal places, removed unessecary columns)
       * Pandas used in the Dataframe, merged data files, renamed closing value columns to match the tickers. 
-3. Visualizations usign Tableau displayed in the form of area and line graphs
-4.	Virtual Environment
-5.	README with well-written comments and Markdown features
+3. Visualizations using Tableau displayed in the form of area and line graphs
+4.	Virtual Environment utilized to help keep dependencies separate.
+6.	README with well-written comments and Markdown features
