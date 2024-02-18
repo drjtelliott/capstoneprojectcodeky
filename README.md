@@ -49,18 +49,15 @@ Merged CSV
 
 Before you begin running these files, ensure you have met the following requirements:
 
-•	You have installed Python. This project was developed using Python 3.11.1. If you don't have Python installed or if you need to upgrade your current version, you can download it from the official Python website.
-•	You have installed Git, which is necessary to clone the repository. If you don't have Git installed, you can download it from the official Git website.
-•	Download yfinance
-
-
-**Directions for Implementation**
-
-* Follow these steps to run the project on your local machine:
 1. Create a GitHub account at this [website](https://github.com/)
 1. Install VS Code from this [website](https://code.visualstudio.com/)
 1. Install Python version 3.12 from this [website](https://www.python.org/downloads/)
 1. Install yfinance package 0.2.33 from this [website](https://pypi.org/project/yfinance/)
+
+**Directions for Implementation**
+
+* Follow these steps to run the project on your local machine:
+
 1. Set up virtual environment
 1. Created a branch.
 2. clone the repo
