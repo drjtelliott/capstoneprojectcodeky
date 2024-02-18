@@ -71,6 +71,7 @@ Download the download.py to gather data from the data folder.
 1.	Two CSV files created in a data folder (fox.csv & tko.csv)
     -Merged CSV files into one CSV file (merged_data.csv)
 2. 	Data cleaned (rounded closing price to two decimal places, remove unessecary columns)
-3.	Pandas used in the Dataframe
+   -Pandas used in the Dataframe
+3. Visuals
 4.	Virtual Environment
 5.	READ.ME with markdown features
