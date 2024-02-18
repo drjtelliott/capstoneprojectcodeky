@@ -57,7 +57,7 @@ Before you begin running these files, ensure you have met the following requirem
 **Directions for Implementation**
 
 * Follow these steps to run the project on your local machine:
-1. Install VS Code from this website (
+1. Install VS Code from this [website] (https://code.visualstudio.com/)
 1. Install python version from this website (
 Set up virtual environment
 1. First draft of capstone project.
