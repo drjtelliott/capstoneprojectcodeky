@@ -60,6 +60,6 @@ Download the download.py to gather data from the data folder.
       * Merged CSV files into one CSV file (merged_data.csv)
 2. 	Data cleaned (rounded closing price to two decimal places, removed unessecary columns)
       * Pandas used in the Dataframe
-3. Visuals
+3. Visualizations diaplyed int he form of area and line graphs
 4.	Virtual Environment
-5.	README with markdown features
+5.	README with well-written comments and Markdown features
