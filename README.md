@@ -48,9 +48,12 @@ Before you begin running these files, ensure you have met the following requirem
 
 * Follow these steps to run the project on your local machine:
 
-1. Set up virtual environment
-1. Created a branch.
-2. clone the repo
+1. Clone the repository.
+1. Navigate to the cloned repository.
+1. Set up a virtual environment.
+1. Install the required packahes from the requirements.txt file.
+1. Run the prepare_data.py file.
+1. Refer to my Tableau dashboard for visualized data.
 
 **Features**
 1.	Two CSV files created in a data folder (fox.csv & tko.csv)
