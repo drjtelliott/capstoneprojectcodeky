@@ -31,12 +31,24 @@
 * Based upon the evidence discovered though this data analysis, the following conclusions can confidently be made.
     * TKO stock rose $10.42 per share during this time period, indicating a positive correlation.
     * FOX stock declined $3.53 per share during this time period, indicating a negative correlation.
-    * 
+      
 ![Project stock data](tko_fox_open_close.png)
 
 * Utilizing inferential statistics, a data analysis reveals noteworthy trends in the financial performance of FOX and TKO during this media rights deal. Remarkably, the mean, median, and mode of FOX exceeded its 2023 closing price. Conversely, TKO demonstrated a contrasting scenario, with its 2023 closing price surpassing both its mean, median, and mode. This indicates that TKO not only outperformed its typical and frequently occurring closing prices but also diverged positively from the statistical norms, marking a notable distinction from FOX's financial trajectory by the end of 2023.
 
 ![Project Statistics](tko_fox_stats.png)
+
+**Data Visualizations**
+
+*Visualizations of the findings can be viewed at the followign Tablaeu Public websites.
+
+
+- [Area Chart of Monthly Average](https://public.tableau.com/app/profile/j.t.elliott/viz/CODEKYTKOFOXElliottMonthlyAverage/MonthlyAverage)
+![Area Chart](tko_fox_areachart.png)
+
+
+- [Line Graph of Yearly Median](https://public.tableau.com/app/profile/j.t.elliott/viz/CodeKYTKOFOXElliottQuarterlyMedian/YearlyMedian)
+![Line Graph](tko_fox_linegraph.png)
 
 **Requirements**
 
