@@ -38,9 +38,13 @@
 
 ![Project Statistics](tko_fox_stats.png)
 
+* This project extends its advantages to internal analysts who are deeply invested in the details, as well as external investors seeking comprehensive insights into the dynamics of the companies involved.  Data from this project serves as a valuable tool for establishing a baseline and monitoring the enduring impacts on both companies as their relationship evolves. Additionally, it plays a pivotal role in the analysis conducted during contract negotiations at the time of renewal. External entities may leverage this information to explore potential mergers and assess how media rights influence business earnings.
+
+
+
 **Data Visualizations**
 
-*Visualizations of the findings can be viewed at the followign Tablaeu Public websites.
+*Visualizations of the findings can be viewed at the following Tablaeu Public websites.
 
 
 - [Area Chart of Monthly Average](https://public.tableau.com/app/profile/j.t.elliott/viz/CODEKYTKOFOXElliottMonthlyAverage/MonthlyAverage)
@@ -68,7 +72,7 @@ Before you begin running these files, ensure you have met the following requirem
 1. Set up a virtual environment.
 1. Install the required packahes from the requirements.txt file.
 1. Run the prepare_data.py file.
-1. Refer to Tableau dashboard for visualized data.
+1. Refer to [Tableau dashboard](https://public.tableau.com/app/profile/j.t.elliott/vizzes) for visualized data.
 
 **Features**
 1.	Two CSV files created in a data folder (fox.csv & tko.csv)
