@@ -70,7 +70,7 @@ Before you begin running these files, ensure you have met the following requirem
 1. Clone the repository.
 1. Navigate to the cloned repository.
 1. Set up a virtual environment.
-1. Install the required packahes from the requirements.txt file.
+1. Install the required packages from the requirements.txt file.
 1. Run the prepare_data.py file.
 1. Refer to [Tableau dashboard](https://public.tableau.com/app/profile/j.t.elliott/vizzes) for visualized data.
 
